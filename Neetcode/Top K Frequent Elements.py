@@ -15,4 +15,4 @@ class Solution:
         return ans
 nums = [1,2,2,3,3,3]
 k = 2
-print(Solution.topKFrequent(nums,k))
+print(Solution.topKFrequent(nums, k))

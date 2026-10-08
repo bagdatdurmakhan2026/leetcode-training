@@ -1,5 +1,5 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums, target):
         new = sorted(enumerate(nums), key = lambda x:x[1])
         l,r = 0, len(nums)-1
         while l < r :
@@ -13,4 +13,4 @@ class Solution:
         return []
 nums = [3,4,5,6]
 target = 7
-print(Solution.twoSum(nums,target))
+print(Solution.twoSum(nums ,target))
