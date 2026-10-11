@@ -18,6 +18,4 @@ class Solution(object):
                     l = mid + 1
             return ans
         return [findBound(True), findBound(False)] 
-nums = [5,7,7,8,8,10]
-target = 8
-print(Solution().searchRange(nums,target))
+        
