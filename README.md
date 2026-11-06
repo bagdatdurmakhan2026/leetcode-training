@@ -1,21 +1,21 @@
 # 🧩 LeetCode & Problem Solving Repository
 
-Репозиторий для практики алгоритмических задач, подготовки к техническим собеседованиям и решения паттернов с NeetCode и LeetCode.
+A repository for practicing algorithmic problems, preparing for technical interviews, and working through patterns from NeetCode and LeetCode.
 
 ---
 
-## 🎯 Цели
+## 🎯 Goals
 
-* Решение задач по темам: Массивы, Два указателя, Слайдинг виндоу, Деревья, Графы, Динамическое программирование.
-* Оттачивание временной и пространственной сложности ($O(N)$, $O(1)$).
-* Наработка базовых паттернов программирования на Python.
+* Solving problems on the following topics: Arrays, Two Pointers, Sliding Window, Trees, Graphs, Dynamic Programming.
+* Refining time and space complexity ($O(N)$, $O(1)$).
+* Developing fundamental programming patterns in Python.
 
 ---
 
-## 📁 Структура репозитория
+## 📁 Repository structure
 
 ```text
 .
-├── NeetCode/       # Решения задач из списков NeetCode 150 / Blind 75[cite: 15]
-├── easy tasks/     # Базовые задачи уровня Easy для разгребания концептов[cite: 15]
-└── self/           # Собственные решения, задачи с контестов и эксперименты[cite: 15]
+├── NeetCode/       # Solutions to problems from the NeetCode 150 / Blind 75 lists[cite: 15]
+├── easy tasks/     # Basic "Easy"-level tasks for working through concepts[cite: 15]
+└── self/           # My own solutions, problems from contests, and experiments[cite: 15]
