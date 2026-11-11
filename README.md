@@ -1,21 +1,17 @@
-# 🧩 LeetCode & Problem Solving Repository
+# LeetCode Practice
 
-A repository for practicing algorithmic problems, preparing for technical interviews, and working through patterns from NeetCode and LeetCode.
+Python solutions to LeetCode and NeetCode problems, created to strengthen algorithmic problem-solving and data structure skills.
 
----
+## Topics
 
-## 🎯 Goals
+Arrays, strings, hashing, two pointers, sliding window, linked lists, sorting, searching, and more.
 
-* Solving problems on the following topics: Arrays, Two Pointers, Sliding Window, Trees, Graphs, Dynamic Programming.
-* Refining time and space complexity ($O(N)$, $O(1)$).
-* Developing fundamental programming patterns in Python.
+## Structure
 
----
+- `Neetcode/` — NeetCode-style problems
+- `easy tasks/` — LeetCode practice
+- `self/` — personal exercises and experiments
 
-## 📁 Repository structure
+## Skills
 
-```text
-.
-├── NeetCode/       # Solutions to problems from the NeetCode 150 / Blind 75 lists[cite: 15]
-├── easy tasks/     # Basic "Easy"-level tasks for working through concepts[cite: 15]
-└── self/           # My own solutions, problems from contests, and experiments[cite: 15]
+Python · Data Structures · Algorithms · Problem Solving
