@@ -5,10 +5,10 @@ def ans(nums):
     start = 0
     for r in range(nums):
         if nums[r]==0:
-            if l is None:
+            if l is not None:
                 start = l + 1
                 
-        l = r
+            l = r
         mx = max(mx, r - start)
     return mx        
         
